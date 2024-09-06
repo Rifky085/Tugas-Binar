@@ -1,4 +1,4 @@
-# Tugas-Binar
+# Tugas-Biner
 
 A. Penjumlahan biner
    
